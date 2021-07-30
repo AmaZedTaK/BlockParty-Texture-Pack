@@ -4,5 +4,7 @@
 Don't forget to use Optifine!
 https://optifine.net
 
+https://www.curseforge.com/minecraft/texture-packs/enhanced-blockparty
+
 # Source
 • Faithful x32 by Faithful Team (for some gui textures)
